@@ -1,4 +1,4 @@
 # bestrepoever
 #
 # Some content...
-# Some conflict 1
+# Conflict 2
